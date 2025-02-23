@@ -1,5 +1,5 @@
 # ccc25senior
-My solutions in C++ for the 2025 CCC Senior
+My code in C++ for the 2025 CCC Senior contest I wrote during the contest
 
 Total score - 43/75
 
