@@ -13,5 +13,6 @@ S3: 5/15
 
 S4: 8/15
 
-S4: 0/15
-solutions will not be posted until a few days after CCC once discussion is allowed
+S5: 0/15
+
+- Could have gotten two more points since I solved Subtask 1 of S4 worth 2 points but my Dijkstra solution for 8/15 got TLE on subtask 1, could have combined both codes with a ```if (m == n - 1) subtask 1 code else dijkstra code```
